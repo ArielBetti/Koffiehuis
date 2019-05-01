@@ -71,7 +71,7 @@
 
 @media(max-width: 1200px) {
 	.myapp-header {
-		background-image: url("../../images/medium.jpg");
+		background-image: url("../../images/large.jpg");
 	}
 }
 
@@ -94,6 +94,6 @@
 
 @media(max-width: 600px) {
 	.myapp-header {
-		background-image: url("../../images/small.jpg");
+		background-image: url("../../images/large.jpg");
 	}
 }

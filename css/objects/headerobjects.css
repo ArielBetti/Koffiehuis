@@ -1,0 +1,75 @@
+.itemmenu {
+	color: #fff;
+	font-size: 1.25em;
+	margin: 5px;
+	text-decoration: none;
+}
+
+.itemmenu:hover {
+	color: #8f3900;
+	transition: 300ms;
+}
+
+.logoheader {
+	color: #fff;
+	font-size: 1.40em;
+	text-decoration: none;
+}
+
+.subtexto {
+	padding: 1.25em;
+	color: #fff;
+	max-width: 400px;
+	text-align: center;
+	line-height: 1.5em;
+	font-weight: bold;
+}
+
+.logocafe {
+	height: 70px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+
+.cafeheader {
+	height: 30px;
+	padding-right: 5px;
+}
+
+.iconmenu-img {
+	height: 30px;
+	cursor: pointer;
+	padding-right: 5px;
+}
+
+.menuselect {
+	top: 100px;
+}
+
+.menuhidden {
+	top: -10000000%;
+}
+
+.openmenu {
+	background-image: url(../../images/menu.svg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	overflow: hidden;
+	border: none;
+	height: 30px;
+	width: 30px;
+	margin: 15px 10px;
+}
+
+.closemenu {
+	background-image: url(../../images/close.svg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	overflow: hidden;
+	border: none;
+	height: 30px;
+	width: 30px;
+	margin: 15px 10px;
+}
